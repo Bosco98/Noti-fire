@@ -1,0 +1,8 @@
+{
+  "name": "Start",
+  "repository": "https://github.com/Bosco98/Noti-fire.git",
+  "scripts": {
+      "start": "node ./bin/www"
+  }
+
+}
