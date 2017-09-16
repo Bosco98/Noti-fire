@@ -1,6 +1,15 @@
 # Noti-fire
 Mean app which can be used as a notification platform or TO-D0 list. Or may be a blog or like twitter
 
+Highlights of the Project   :
+------------------------------
+$ Login page
+$ Registeration page
+$ Live feed /Posts 
+
+
+
+
                                                               Instructions
                                         *-----------------------------------------------------*
 
@@ -27,7 +36,7 @@ Mean app which can be used as a notification platform or TO-D0 list. Or may be a
 
                                         If you still get error try installing latest dependencies.
                                           
-                                          
+                                        **********************************************************
                                            
                                            
                                            @________________keep Coding__________________@
